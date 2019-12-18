@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Bulbasaur",
+        "image": "../imgs/Bulbasaur.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Charmander",
+        "image": "../imgs/Charmander.png"
+    },
+    {
+        "id": 3,
+        "name": "Ekans",
+        "image": "../imgs/Ekans.png"
+    },
+    {
+        "id": 4,
+        "name": "Gastly",
+        "image": "../imgs/Gastly.png"
+    },
+    {
+        "id": 5,
+        "name": "Gyarados",
+        "image": "../imgs/Gyarados.png"
+    },
+    {
+        "id": 6,
+        "name": "Haunter",
+        "image": "../imgs/Haunter.png"
+    },
+    {
+        "id": 7,
+        "name": "Hitmonchan",
+        "image": "../imgs/Hitmonchan.png"
+    },
+    {
+        "id": 8,
+        "name": "Hitmonlee",
+        "image": "../imgs/Hitmonlee.png"
+    },
+    {
+        "id": 9,
+        "name": "Magikarp",
+        "image": "../imgs/Magikarp.png"
+    },
+    {
+        "id": 10,
+        "name": "Mew",
+        "image": "../imgs/Mew.png"
+    },
+    {
+        "id": 11,
+        "name": "Mewtwo",
+        "image": "../imgs/Mewtwo.png"
+    },
+    {
+        "id": 12,
+        "name": "MrMime",
+        "image": "../imgs/MrMime.png"
+    }
+
+]
